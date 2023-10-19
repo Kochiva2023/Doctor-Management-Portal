@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033559801370",
+    "project_id": "doctor-management-portal",
+    "storage_bucket": "doctor-management-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033559801370:android:7306632fa8f8bebc4b1ba3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEdSg-wxBYyJ9zrpUFlKDNWBiz78PU6Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
